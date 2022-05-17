@@ -18,7 +18,7 @@ python **TCP Flood** attack tool 🧨
 
 - [Install python](https://www.tutorialspoint.com/how-to-install-python-in-windows)
 
-- open windows terminal & type `cd OnionTCP.py <ip> <port> <thread>`
+- open windows terminal & type `python OnionTCP.py <ip> <port> <thread>`
 
 # Contact Me
 
